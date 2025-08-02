@@ -1,29 +1,29 @@
 [mongodb]
-mongodb.joindevops.online
+mongodb.janadevops.fun
 
 [catalogue]
-catalogue.joindevops.online
+catalogue.janadevops.fun
 
 [web]
-web.joindevops.online
+web.janadevops.fun
 
 [redis]
-redis.joindevops.online
+redis.janadevops.fun
 
 [user]
-user.joindevops.online
+user.janadevops.fun
 
 [cart]
-cart.joindevops.online
+cart.janadevops.fun
 
 [mysql]
-mysql.joindevops.online
+mysql.janadevops.fun
 
 [shipping]
-shipping.joindevops.online
+shipping.janadevops.fun
 
 [rabbitmq]
-rabbitmq.joindevops.online
+rabbitmq.janadevops.fun
 
 [payment]
-payment.joindevops.online
+payment.janadevops.fun
